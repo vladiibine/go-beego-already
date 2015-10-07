@@ -26,3 +26,5 @@ _testmain.go
 
 /go-beego-already
 /src/src
+
+*.swp
